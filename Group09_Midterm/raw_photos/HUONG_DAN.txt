@@ -1,0 +1,15 @@
+HUONG DAN XEP ANH (xoa file nay sau khi bo anh vao cung duoc)
+
+Moi cap anh la 1 thu muc con trong raw_photos/, chua DUNG 2 anh:
+  - anh ben trai dung truoc theo thu tu ten file (vi du 1.jpg, 2.jpg),
+    hoac dat ten left.jpg / right.jpg
+  - anh goc tu dien thoai (JPG, PNG hoac HEIC), chup NGANG, khong can cat/resize
+
+Ten thu muc:
+  site1_<ten dia diem>/        vi du site1_thu_vien/
+  site2_<ten dia diem>/        vi du site2_san_truong/
+  site3_<ten dia diem>/        vi du site3_quan_ca_phe/
+  challenging_<mo ta>/         vi du challenging_tuong_tron/  (cap anh kho)
+
+Khi chup: dung yen mot cho, chi XOAY may giua 2 tam (khong buoc ngang),
+hai tam trung nhau khoang 30-50%.
